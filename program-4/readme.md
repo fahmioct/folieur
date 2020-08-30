@@ -7,4 +7,4 @@ Input:
 
 Output:
 * Plot perbandingan spektrum lapangan dengan spektrum teori yang memiliki error paling kecil.
-* Data besarnya error dari masing-masing spektrum teori.
+* Data besarnya error dari masing-masing spektrum teori (.csv atau .xls).
