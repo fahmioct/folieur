@@ -5,7 +5,7 @@ Program 2 berisi fungsi:
 *	Inverse Fourier Transform.
 
 Input:
-*	Spektrum Gelombang (.csv atau .xls). Baris pertama memiliki kolom `f` dengan satuan frekuensi dan `S(f)` dengan satuan `m^2.s`. Contoh:
+*	Spektrum Gelombang (.csv atau .xls). Baris pertama memiliki kolom `f` dengan satuan Hertz dan `S(f)` dengan satuan `m^2.s`. Contoh:
 
 |f|S(f)|
 |-|-|
