@@ -8,6 +8,7 @@ Program 1 berisi fungsi:
 
 Input:
  *	Data Elevasi Muka Air (.csv atau .xls).
+
 Output:
 * Data Gelombang Individual hasil zero-crossing (.csv atau .xls).
 *	Data Statistik Gelombang (.csv atau .xls).
