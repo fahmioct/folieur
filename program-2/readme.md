@@ -1,5 +1,9 @@
 # Program 2
 
+Program 2 berisi fungsi:
+•	Pembuatan 1 dari 10 pilihan spektrum,
+•	Inverse Fourier Transform.
+
 Input:
 *	Spektrum Gelombang (.csv atau .xls).
 *	Tinggi Gelombang Signifikan.
